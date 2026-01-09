@@ -1,0 +1,9 @@
+
+
+{
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAAIi25AEAAAAA6cB9NdjfHjuv9hCzjzKONqkQ7Zs%3D3ihB7btNoCi358C8RlpfXg2wemwqoTBkt52s4PYxOeYBbUYsi7",
+    "db_host" : "localhost",
+	"db_user" : "root",
+	"db_passwd" : "shashank@5",
+	"db_name" : "smdm"
+}
